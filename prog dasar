@@ -1,0 +1,16 @@
+# -*- coding: utf-8 -*-
+"""
+@Materi: Variabel dan Pemrograman Dasar
+@Judul: Praktikum 
+@Hari/Tanggal: 
+@Nama Kelompok:
+
+"""
+
+nama = input("nama kamu siapa? ")
+asal = input("darimana asal kamu? " + nama + "? ")
+sekolah = input("sebelumnya bersekolah dimana? ")
+
+print("hallo selamat siang " + nama)
+print("Wah dari " + asal)
+print("Pasti menyenangkan bersekolah di " + sekolah)
